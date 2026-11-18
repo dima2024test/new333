@@ -2145,6 +2145,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.QA_LOG3053_Account_Field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>Account.Rating</field>
         <readable>false</readable>
@@ -8212,6 +8217,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>pharos__Log__c.Push_Notifications__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>pharos__Log__c.QA_LOG3053_Log_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
