@@ -8221,6 +8221,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>pharos__Log__c.QA_LOG3053_Log_Field_2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>pharos__Log__c.QA_LOG3053_Log_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>
