@@ -2106,6 +2106,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Account.QA_LOG3053_Account_Field_2__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Account.QA_LOG3053_Account_Field__c</field>
         <readable>false</readable>
     </fieldPermissions>
