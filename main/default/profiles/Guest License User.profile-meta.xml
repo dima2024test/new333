@@ -8191,6 +8191,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>pharos__Log__c.QA_LOG3053_Log_Field_3__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>pharos__Log__c.QA_LOG3053_Log_Field__c</field>
         <readable>false</readable>
     </fieldPermissions>
